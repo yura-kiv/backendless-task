@@ -1,12 +1,12 @@
 import React from "react";
-import chartImg from "../assets/chart.png";
+import chart from "../assets/chart.png";
 
 const dummyChart = () => {
   return (
     <div>
       <img
         alt="chart"
-        src={chartImg}
+        src={chart}
       />
     </div>
   );
